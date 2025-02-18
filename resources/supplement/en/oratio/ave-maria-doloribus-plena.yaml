@@ -1,0 +1,26 @@
+info:
+  tags:
+    - Hail Mary Full of Sorrows
+  title: Ave Maria Doloribus Plena
+
+sections:
+- body:
+  -
+    - |
+        Hail, Mary, full of sorrows,  
+        the Crucified is with thee.  
+        Tearful art thou amongst women  
+        and tearful is the fruit of thy womb, Jesus.  
+        Holy Mary, Mother of Crucified,  
+        grant tears to us crucifiers of thy Son,  
+        now and at the hour of our death. Amen.
+    - |
+        Ave Maria, doloribus plena,  
+        Crucifixus Tecum,  
+        Lacrymabilis te in mulieribus   
+        Et lacrymabilis fructus ventris Tui, Jesus.  
+        Sancta Maria, Mater Crucifixi  
+        lacrymas impertire nobis crucifixoribus Filii tui,
+        nunc et in hora mortis nostrae. Amen.
+  id: ''
+  label: ''
